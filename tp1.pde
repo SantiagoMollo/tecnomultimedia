@@ -79,7 +79,7 @@ void draw (){
   text(texto6, 20, posYLinda);
   text(texto7, 200, posYMarty);
   text(texto8, 200, posYDoc);
-  text(texto9, 200, posYLorraine);
+  text(texto9, 215, posYLorraine);
   text(texto10, 200, posYGeorge);
   text(texto11, 200, posYBiff);
   text(texto12, 200, posYLinda);
